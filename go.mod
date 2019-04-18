@@ -31,3 +31,6 @@ require (
 	google.golang.org/genproto v0.0.0-20181219182458-5a97ab628bfb // indirect
 	google.golang.org/grpc v1.17.0 // indirect
 )
+
+// Override to use forked version of go-sentry with support for project key rate limits
+replace github.com/jianyuan/go-sentry => github.com/mercari/go-sentry v1.2.1-0.20190408100347-637a81a6ad97
