@@ -198,8 +198,6 @@ github.com/hashicorp/yamux v0.0.0-20180917205041-7221087c3d28/go.mod h1:+NfK9FKe
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/jellevandenhooff/dkim v0.0.0-20150330215556-f50fe3d243e1/go.mod h1:E0B/fFc00Y+Rasa88328GlI/XbtyysCtTHZS8h7IrBU=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
-github.com/jianyuan/go-sentry v1.2.0 h1:J+td84GIYoZovZYV+0B+9YuAJ2dR4SMAsky3kXZU580=
-github.com/jianyuan/go-sentry v1.2.0/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af h1:pmfjZENx5imkbgOkpRUYLnmbU7UEFbjtDA2hxJ1ichM=
@@ -243,11 +241,11 @@ github.com/mattn/go-isatty v0.0.4/go.mod h1:M+lRXTBqGeGNdLjl/ufCoiOlB5xdOkqRJdNx
 github.com/mattn/go-isatty v0.0.5 h1:tHXDdz1cpzGaovsTB+TVB8q90WEokoVmfMqoVcrLUgw=
 github.com/mattn/go-isatty v0.0.5/go.mod h1:Iq45c/XA43vh69/j3iqttzPXn0bhXyGjM0Hdxcsrc5s=
 github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
-github.com/mercari/go-sentry v1.2.1-0.20190408100347-637a81a6ad97 h1:r4uy9NCZRaO4M440BVmIc8gPIRfR/QjNbSpZf362jHI=
-github.com/mercari/go-sentry v1.2.1-0.20190408100347-637a81a6ad97/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
 github.com/mattn/go-shellwords v1.0.4 h1:xmZZyxuP+bYKAKkA9ABYXVNJ+G/Wf3R8d8vAP3LDJJk=
 github.com/mattn/go-shellwords v1.0.4/go.mod h1:3xCvwCdWdlDJUrvuMn7Wuy9eWs4pE8vqg+NOMyg4B2o=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
+github.com/mercari/go-sentry v1.2.1-0.20190408100347-637a81a6ad97 h1:r4uy9NCZRaO4M440BVmIc8gPIRfR/QjNbSpZf362jHI=
+github.com/mercari/go-sentry v1.2.1-0.20190408100347-637a81a6ad97/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
 github.com/microcosm-cc/bluemonday v1.0.1/go.mod h1:hsXNsILzKxV+sX77C5b8FSuKF00vh2OMYv+xgHpAMF4=
 github.com/miekg/dns v1.0.8/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 github.com/mitchellh/cli v1.0.0 h1:iGBIsUe3+HZ/AD/Vd7DErOt5sU9fa8Uj7A2s1aggv1Y=
